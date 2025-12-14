@@ -80,13 +80,13 @@ The design follows a hierarchical approach:
 3.  **Stick Diagram:** Euler path optimization for layout.
 
 <div align="center"> 
-  <img width="600" alt="CMOS Schematic" src="path/to/your/transistor_schematic_image.png" />
+  <img width="853" height="766" alt="image" src="https://github.com/user-attachments/assets/8b67bf32-090f-4b59-b790-821186d285fd" />
   <br>
   <em>Fig 1: Transistor Level CMOS Circuit</em>
 </div>
 
 <div align="center"> 
-  <img width="600" alt="Stick Diagram" src="path/to/your/stick_diagram_image.png" />
+  <img width="940" height="713" alt="image" src="https://github.com/user-attachments/assets/53459451-8020-43c5-88df-64e9692b4452" />
   <br>
   <em>Fig 2: Stick Diagram Representation</em>
 </div>
@@ -98,7 +98,7 @@ The design follows a hierarchical approach:
 The physical layout was drafted in **Microwind** with manual routing to optimize area and capacitance.
 
 <div align="center"> 
-  <img width="800" alt="Microwind Layout" src="path/to/your/microwind_layout_image.png" />
+  <img width="768" height="573" alt="image" src="https://github.com/user-attachments/assets/a58a154d-b0e6-44d0-92e6-79c6fc49c524" />
   <br>
   <em>Fig 3: Final Layout in Microwind (120nm)</em>
 </div>
@@ -107,7 +107,7 @@ The physical layout was drafted in **Microwind** with manual routing to optimize
 The simulation validates the logic by toggling inputs A, B, C, and P and observing the `Odd_Parity` and `Even_Parity` output nodes.
 
 <div align="center"> 
-  <img width="800" alt="Simulation Waveforms" src="path/to/your/waveform_image.png" />
+ <img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/1d9f836f-b96f-4578-bb02-3351e5b5efbc" />
 </div>
 
 ---
