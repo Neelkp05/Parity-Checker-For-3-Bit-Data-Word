@@ -134,4 +134,3 @@ This project successfully demonstrated the VLSI design flow for an error detecti
 
 ## 📚 References
 1. CMOS Digital Integrated Circuits by Sung-Mo Kang.
-2. Nirma University Laboratory Resources.
